@@ -37,7 +37,7 @@ Run the following commands to build the project in release mode:
 ```bash
 cargo build --release
 ```
-The compiled binary will be located in `./target/release/ddns_updater`.
+The compiled binary will be located in `./target/release/ddns-updater`.
 
 ## Usage
 
